@@ -46,8 +46,8 @@ TOKEN = "你的 Discord Bot Token"
 API_BASE_URL = "https://api.openai.com/v1/chat/completions"
 API_KEY = "你的 OpenAI API Key"
 
-ADMIN_ID = 123456789012345678
-R18_ROLE_IDS = [987654321098765432]
+ADMIN_ID = 你的id
+R18_ROLE_IDS = [身分組id]
 
 ROLE_FILE = "role.txt"
 ```
