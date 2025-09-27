@@ -1,11 +1,11 @@
 # config.py
-TOKEN = "MTQwMDY5MzIzMTA3OTAwMjE1Mg.GwTpfN.tGVMYbheTXLnajCbxhDduwpFKRTFM5dkLGEBnM"
-API_BASE_URL = "https://api.chatanywhere.org/v1/chat/completions"
-API_KEY = "sk-oqwoGqHp8JkkLhm7lQGskikSs56disdB207ReSMNe5Viv9ub"
+TOKEN = ""
+API_BASE_URL = ""
+API_KEY = ""
 
 # 管理員 ID
-ADMIN_ID = 896248532032421918
-R18_ROLE_IDS = [1406554349991235615] 
+ADMIN_ID = 
+R18_ROLE_IDS = [] 
 
 # AI 角色定義檔案
 ROLE_FILE = "role.txt"
