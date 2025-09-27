@@ -1,0 +1,4 @@
+discord.py==2.3.2
+aiohttp==3.9.1
+yt-dlp==2025.01.15
+Pillow==10.3.0
